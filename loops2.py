@@ -3,4 +3,4 @@
 import random
 
 number =int(random.randint(1,6)) 
-print number
+print(number)
